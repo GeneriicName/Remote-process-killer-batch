@@ -15,4 +15,4 @@ if exist \\!pc!\c$ (
    echo Invalid PC !pc! or it its not available at this time
 )
 goto another
-setlocal DisableDelayedExpansionEnter file contents here
+setlocal DisableDelayedExpansionEnter 
